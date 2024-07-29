@@ -6,8 +6,8 @@ class Bling {
     private $bearerToken = '';
     const URL_API = 'https://bling.com.br/Api/v3/';
 
-    const CLIENT_ID = '9e13740f9b32dcb2640c3d25f77393ec5a167e0b';
-    const CLIENT_SECRET = '42013345ee1645556dad88f4f1bdff3f7aedb7fd7dea0d523c19a22153c2';
+    const CLIENT_ID = ''; //INSIRA AQUI SEU CLIENT_ID
+    const CLIENT_SECRET = ''; //INSIRA AQUI SEU CLIENT_SECRET
 
 
     function __construct() {
